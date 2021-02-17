@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">COMP599_A1</string>
+    <string name="open_btn_text">OPEN THE CAMERA</string>
+    <string name="control_btn_text">CONTROL THE CAMERA</string>
+    <string name="open_takePic_description">TAKE A PICTURE</string>
+    <string name="control_takePic_description">Button takes a picture when controlling the camera</string>
+    <string name="open_img_description">Holds the picture taken when opening the camera app</string>
+    <string name="control_img_description">Holds the picture taken when controlling the camera app</string>
+    <string name="hidden_btn">CLICK ME</string>
+</resources>
